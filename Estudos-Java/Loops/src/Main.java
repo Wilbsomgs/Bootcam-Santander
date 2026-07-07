@@ -1,5 +1,5 @@
-import loop.*;
-
+import loop.forCase.*;
+import loop.switchCase;
 public class Main {
 
     public static void main(String[] args) throws Exception {
