@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bootcam-Santander.iml" filepath="$PROJECT_DIR$/Bootcam-Santander.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstudosJava/Exercicios/Exercicios.iml" filepath="$PROJECT_DIR$/EstudosJava/Exercicios/Exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstudosJava/HerancaPolimorfismo/HerancaPolimorfismo.iml" filepath="$PROJECT_DIR$/EstudosJava/HerancaPolimorfismo/HerancaPolimorfismo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstudosJava/InputUser/InputUser.iml" filepath="$PROJECT_DIR$/EstudosJava/InputUser/InputUser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstudosJava/Loops/Loops.iml" filepath="$PROJECT_DIR$/EstudosJava/Loops/Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstudosJava/OperatorsBiteWise/OperatorsBiteWise.iml" filepath="$PROJECT_DIR$/EstudosJava/OperatorsBiteWise/OperatorsBiteWise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstudosJava/Printing/Printing.iml" filepath="$PROJECT_DIR$/EstudosJava/Printing/Printing.iml" />
+    </modules>
+  </component>
+</project>

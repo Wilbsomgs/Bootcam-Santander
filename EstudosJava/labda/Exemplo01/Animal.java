@@ -1,4 +1,4 @@
-package EstudosJava.lambada.Exemplo01;
+package labda.Exemplo01;
 
 
 public interface Animal { // Inteface funcional
