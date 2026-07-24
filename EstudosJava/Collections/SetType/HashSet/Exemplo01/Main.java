@@ -1,4 +1,4 @@
-package SetType.Exemplo01;
+package SetType.HashSet.Exemplo01;
 import java.util.*;
 import java.util.function.Predicate;
 

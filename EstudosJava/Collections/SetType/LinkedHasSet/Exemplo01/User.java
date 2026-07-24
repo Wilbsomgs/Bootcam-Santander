@@ -1,4 +1,4 @@
-package SetType.Exemplo01;
+package SetType.LinkedHasSet.Exemplo01;
 
 
 import static java.util.Objects.hash;
