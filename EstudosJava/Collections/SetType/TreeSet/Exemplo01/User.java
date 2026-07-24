@@ -52,10 +52,10 @@ public class User implements Comparable<User>{
     }
 
     @Override
-    public int compareTo(User user) {
-        var compareResult = 0;
-        if(this.id > user.id) compareResult --;
-        if(this.id < user.id) compareResult ++;
+    public int compareTo(User that) {
+        var compareResult = 0; 
+        if(this.id > that.id) compareResult --;
+        if(this.id < that.id) compareResult ++;
         return compareResult;
     }
 }
